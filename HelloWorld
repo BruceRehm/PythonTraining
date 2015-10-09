@@ -1,0 +1,7 @@
+__author__ = 'BruceRehm'
+userName = "Amit Chavan";
+age = "33";
+salary = "33.90";
+
+print "This users name is " + userName + " age " + str(age_i) + " salary " + salary;
+print age_i + salary_f;
